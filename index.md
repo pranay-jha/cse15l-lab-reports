@@ -19,3 +19,6 @@ Horizontal rule:
 this is a code block
 wow
 ```
+>
+[Link](lab-report-1-week-2.html)
+[Link](https://pranay-jha.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
