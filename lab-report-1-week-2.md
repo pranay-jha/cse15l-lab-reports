@@ -1,1 +1,1 @@
-![Image](C:\Users\prana\OneDrive\Documents\GitHub\cse15l-lab-reports\Screenshot 2022-04-07 184425.png)
+![Image](screenshot.png)
