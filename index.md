@@ -3,8 +3,8 @@ Hello world!
 **Bold**
 # Heading 1
 ## Heading 2
-[Link] (https://www.google.com/)
-![Image] (https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg)
+[Link](https://www.google.com/)
+![Image](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg)
 > Blockquote
 * List 1
 * List 2
