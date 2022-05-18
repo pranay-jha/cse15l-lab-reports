@@ -25,4 +25,4 @@ wow
 
 * [Link to lab report 1](https://pranay-jha.github.io/cse15l-lab-reports/report_1/lab-report-1-week-2.html)
 * [Link to lab report 2](https://pranay-jha.github.io/cse15l-lab-reports/report_2/lab-report-2-week-4.html)
-* [Link to lab report 2](https://pranay-jha.github.io/cse15l-lab-reports/report_3/lab-report-3-week-6.html)
+* [Link to lab report 3](https://pranay-jha.github.io/cse15l-lab-reports/report_3/lab-report-3-week-6.html)
