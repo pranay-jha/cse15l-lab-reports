@@ -7,6 +7,7 @@
 
 ## Snippet 1 Tests
 This is the VSCode preview for snippet 1:
+
 ![Image](snippet1preview.png)
 
 When we run ``MarkdownParse``, we should get a list with the links ``%60google.com``,  ``google.com``, and ``ucsd.edu``.
@@ -32,6 +33,7 @@ JUnit results for reviewed implementation:
 
 ## Snippet 2 Tests
 This is the VSCode preview for snippet 2:
+
 ![Image](snippet2preview.png)
 
 When we run ``MarkdownParse``, we should get a list with the links ``a.com``, ``a.com(())``, and ``example.com``.
